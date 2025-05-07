@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/77afbf68-ed25-4f18-bbd1-a27863c54b3a)
+
 # projetoavant
 Plataforma de E-commerce para o seguimento de moda.
 
