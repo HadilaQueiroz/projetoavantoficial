@@ -4,7 +4,7 @@ Plataforma de E-commerce para o seguimento de moda.
 🛍️ **AVANT** Store - Layout Responsivo E-commerce
 
 📝 **Sobre o Projeto**\
-Este projeto foi desenvolvido para o processo seletivo de estágio na empresa AVANT, com o objetivo de criar um layout responsivo para uma plataforma de e-commerce especializada em moda masculina.\
+Este projeto foi desenvolvido para o processo seletivo de estágio na empresa AVANTE, com o objetivo de criar um layout responsivo para uma plataforma de e-commerce especializada em moda masculina.\
 O site conta com uma estrutura completa, incluindo:
 
 Cabeçalho fixo com barra de busca, menu de usuário e carrinho;\
